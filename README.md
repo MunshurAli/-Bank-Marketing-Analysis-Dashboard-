@@ -1,3 +1,6 @@
+<img width="1806" height="1168" alt="image" src="https://github.com/user-attachments/assets/51bf9a1f-7cdb-4d36-b14a-0c3b93501fb1" />
+
+
 # 📊 Bank Marketing Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
